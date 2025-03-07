@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codeforces Practice Helper</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CF Grind</h1>
+        <form id="userForm">
+            <label for="username">Enter Codeforces Username:</label>
+            <input type="text" id="username" placeholder="Enter Codeforces handle" required>
+            <button type="submit">Fetch Problems</button>
+        </form>
+        
+        <div id="userRating"></div>
+        <div id="solvedProblemsCount"></div>
+        <div id="problemContainer"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
