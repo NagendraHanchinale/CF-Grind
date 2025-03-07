@@ -13,21 +13,6 @@ CF Grind is a powerful tool designed to help competitive programmers efficiently
 3. **Suggest Problems** – It selects problems from Codeforces that help improve your rating.
 4. **Track Progress** – After solving, it updates your stats and refines recommendations.
 
-## Usage
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/cf-grind.git
-   cd cf-grind
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Run the script:
-   ```sh
-   node cf-grind.js
-   ```
-
 ## Contributing
 Feel free to contribute by improving features or fixing bugs! Just fork the repo, make your changes, and submit a pull request. 
 
