@@ -1,6 +1,6 @@
 # CF Grind - Codeforces Practice Helper
 
-CF Grind is a powerful tool designed to help competitive programmers efficiently track their performance and practice problems that can help increase their Codeforces rating. It provides insightful analysis and suggests problems based on difficulty to optimize improvement.
+CF Grind is a powerful tool designed to help competitive programmers practice problems that can help increase their Codeforces rating. It provides insightful analysis and suggests problems based on difficulty to optimize improvement.
 
 ## Features
 - 📊 **Performance Tracking** – Monitor your progress over time with detailed stats.
